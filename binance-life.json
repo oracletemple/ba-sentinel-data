@@ -1,0 +1,46 @@
+{
+  "symbolId": "0x924fa68a0FC644485b8df8AbfA0A41C2e7744444_bsc",
+  "displayName": "binance life",
+  "status": "active",
+  "watchConfig": {
+    "buyThreshold": 0.12,
+    "sellThreshold": 0.15,
+    "dropPctThreshold": 15
+  },
+  "state": {
+    "_id": "691945b73dd4a58e7ea19a2e",
+    "symbolId": "0x924fa68a0FC644485b8df8AbfA0A41C2e7744444_bsc",
+    "__v": 0,
+    "baseToken": {
+      "symbol": "币安人生",
+      "name": "币安人生"
+    },
+    "crashPatternScore": 0.1,
+    "createdAt": "2025-11-16T03:32:07.739Z",
+    "fdv": 142087947,
+    "lastSnapshotTs": "2025-11-17T17:04:50.087Z",
+    "liquidity": 4247675.32,
+    "localHigh24h": 0.1476,
+    "localLow24h": 0.1364,
+    "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
+    "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
+    "price": 0.142,
+    "priceChange1hPct": 3.44,
+    "priceChange24hPct": 2.08,
+    "quoteToken": {
+      "symbol": "WBNB",
+      "name": "Wrapped BNB"
+    },
+    "trendShort": "up",
+    "updatedAt": "2025-11-17T17:04:50.087Z",
+    "vol24h": 1764903.6,
+    "volatilityRegime": "low",
+    "lastDropAlertTs": "2025-11-16T14:29:33.760Z",
+    "lastBuyAlertTs": "2025-11-16T18:39:29.723Z",
+    "dropTriggerPrice": 0.11824059561128525,
+    "ema25": 0.14231521229534916,
+    "ema7": 0.142080884197914,
+    "ema99": 0.14136701311396327,
+    "referencePrice24hAgo": 0.1391065830721003
+  }
+}
