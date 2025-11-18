@@ -18,7 +18,7 @@
     "crashPatternScore": 0.1,
     "createdAt": "2025-11-16T03:32:07.739Z",
     "fdv": 139319637,
-    "lastSnapshotTs": "2025-11-18T10:11:47.119Z",
+    "lastSnapshotTs": "2025-11-18T10:12:49.764Z",
     "liquidity": 4207501.2,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
@@ -26,21 +26,21 @@
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.1393,
     "priceChange1hPct": 0.85,
-    "priceChange24hPct": -4.02,
+    "priceChange24hPct": -4.04,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-18T10:11:47.119Z",
-    "vol24h": 2337961.41,
+    "updatedAt": "2025-11-18T10:12:49.764Z",
+    "vol24h": 2337892.87,
     "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-16T14:29:33.760Z",
     "lastBuyAlertTs": "2025-11-16T18:39:29.723Z",
-    "dropTriggerPrice": 0.12336424255053136,
-    "ema25": 0.139527940197634,
-    "ema7": 0.13929877444818722,
-    "ema99": 0.13967897175621555,
-    "referencePrice24hAgo": 0.14513440300062513
+    "dropTriggerPrice": 0.12338995414756149,
+    "ema25": 0.13946549028178779,
+    "ema7": 0.13929961222774673,
+    "ema99": 0.13964955148147254,
+    "referencePrice24hAgo": 0.14516465193830763
   }
 }
