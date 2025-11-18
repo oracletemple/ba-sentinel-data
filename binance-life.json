@@ -18,7 +18,7 @@
     "crashPatternScore": 0.2,
     "createdAt": "2025-11-16T03:32:07.739Z",
     "fdv": 138368228,
-    "lastSnapshotTs": "2025-11-18T05:36:55.541Z",
+    "lastSnapshotTs": "2025-11-18T05:37:46.687Z",
     "liquidity": 4170860.77,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
@@ -32,15 +32,15 @@
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-18T05:36:55.541Z",
+    "updatedAt": "2025-11-18T05:37:46.687Z",
     "vol24h": 2199959.56,
     "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-16T14:29:33.760Z",
     "lastBuyAlertTs": "2025-11-16T18:39:29.723Z",
     "dropTriggerPrice": 0.12379422914911542,
-    "ema25": 0.1385348699585646,
-    "ema7": 0.13833242871452486,
-    "ema99": 0.13861358642355132,
+    "ema25": 0.13848473158324973,
+    "ema7": 0.13831368086394016,
+    "ema99": 0.1385951450331551,
     "referencePrice24hAgo": 0.14564026958719462
   }
 }
