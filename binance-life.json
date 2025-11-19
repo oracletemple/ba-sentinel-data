@@ -3,7 +3,7 @@
   "displayName": "binance life",
   "status": "active",
   "watchConfig": {
-    "buyThreshold": null,
+    "buyThreshold": 0.11,
     "sellThreshold": 0.13,
     "dropPctThreshold": 15
   },
@@ -17,30 +17,30 @@
     },
     "crashPatternScore": 0.4,
     "createdAt": "2025-11-16T03:32:07.739Z",
-    "fdv": 122636464,
-    "lastSnapshotTs": "2025-11-19T20:59:43.540Z",
-    "liquidity": 4082417,
+    "fdv": 122604955,
+    "lastSnapshotTs": "2025-11-19T21:01:49.952Z",
+    "liquidity": 4080747.24,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.1226,
-    "priceChange1hPct": 3.34,
-    "priceChange24hPct": -13.75,
+    "priceChange1hPct": 3.1,
+    "priceChange24hPct": -13.5,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "up",
-    "updatedAt": "2025-11-19T20:59:43.540Z",
-    "vol24h": 2341660.34,
+    "updatedAt": "2025-11-19T21:01:49.952Z",
+    "vol24h": 2330674.97,
     "volatilityRegime": "mid",
     "lastDropAlertTs": "2025-11-19T20:20:30.393Z",
     "lastBuyAlertTs": "2025-11-16T18:39:29.723Z",
-    "dropTriggerPrice": 0.12082318840579709,
-    "ema25": 0.12234963883645121,
-    "ema7": 0.12254809343387767,
-    "ema99": 0.12198179412505272,
-    "referencePrice24hAgo": 0.14214492753623187
+    "dropTriggerPrice": 0.12047398843930636,
+    "ema25": 0.12241823153645366,
+    "ema7": 0.12258357643806285,
+    "ema99": 0.12202978658462367,
+    "referencePrice24hAgo": 0.1417341040462428
   }
 }
