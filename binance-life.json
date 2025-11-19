@@ -1,10 +1,10 @@
 {
   "symbolId": "0x924fa68a0FC644485b8df8AbfA0A41C2e7744444_bsc",
   "displayName": "binance life",
-  "status": "stopped",
+  "status": "active",
   "watchConfig": {
-    "buyThreshold": 0.135,
-    "sellThreshold": 0.147,
+    "buyThreshold": null,
+    "sellThreshold": 0.13,
     "dropPctThreshold": 15
   },
   "state": {
