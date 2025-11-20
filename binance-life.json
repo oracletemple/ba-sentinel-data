@@ -17,34 +17,34 @@
     },
     "crashPatternScore": 0.4,
     "createdAt": "2025-11-16T03:32:07.739Z",
-    "fdv": 121180509,
-    "lastSnapshotTs": "2025-11-20T13:12:18.847Z",
-    "liquidity": 4096215.38,
+    "fdv": 121208552,
+    "lastSnapshotTs": "2025-11-20T13:13:22.368Z",
+    "liquidity": 4096803.26,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.1212,
     "priceChange1hPct": 4.82,
-    "priceChange24hPct": -14.99,
+    "priceChange24hPct": -15.07,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "up",
-    "updatedAt": "2025-11-20T13:12:18.848Z",
-    "vol24h": 3646299.34,
+    "updatedAt": "2025-11-20T13:13:22.368Z",
+    "vol24h": 3646434.28,
     "volatilityRegime": "mid",
     "lastDropAlertTs": "2025-11-20T12:56:26.103Z",
     "lastBuyAlertTs": "2025-11-16T18:39:29.723Z",
-    "dropTriggerPrice": 0.1211857428537819,
-    "ema25": 0.12109010568150082,
-    "ema7": 0.1212108989779464,
-    "ema99": 0.12043583861208956,
-    "referencePrice24hAgo": 0.1425714621809199,
+    "dropTriggerPrice": 0.12129989403037797,
+    "ema25": 0.12112021397750783,
+    "ema7": 0.12120344850474085,
+    "ema99": 0.12049516186668999,
+    "referencePrice24hAgo": 0.1427057576827976,
     "timeframes": {
       "5m": {
-        "changePct": 0.4142502071251039,
+        "changePct": 0.16528925619835186,
         "trend": "flat",
         "volatility": "low"
       },
@@ -59,14 +59,14 @@
         "volatility": "mid"
       },
       "4h": {
-        "changePct": -1.9417475728155336,
+        "changePct": -1.862348178137649,
         "trend": "flat",
         "volatility": "mid"
       },
       "1d": {
-        "changePct": -14.99,
+        "changePct": -15.07,
         "trend": "down",
-        "vol24h": 3646299.34,
+        "vol24h": 3646434.28,
         "positionInRange": 0,
         "volatility": "mid"
       }
