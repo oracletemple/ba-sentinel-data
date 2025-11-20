@@ -17,39 +17,39 @@
     },
     "crashPatternScore": 0.4,
     "createdAt": "2025-11-16T03:32:07.739Z",
-    "fdv": 125446379,
-    "lastSnapshotTs": "2025-11-20T07:59:21.028Z",
-    "liquidity": 4178898.23,
+    "fdv": 125446383,
+    "lastSnapshotTs": "2025-11-20T08:00:23.713Z",
+    "liquidity": 4178898.28,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.1254,
-    "priceChange1hPct": 0.62,
-    "priceChange24hPct": -11.24,
+    "priceChange1hPct": 0.52,
+    "priceChange24hPct": -11.44,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-20T07:59:21.028Z",
-    "vol24h": 2940164.11,
+    "updatedAt": "2025-11-20T08:00:23.713Z",
+    "vol24h": 2937021.27,
     "volatilityRegime": "mid",
     "lastDropAlertTs": "2025-11-19T20:20:30.393Z",
     "lastBuyAlertTs": "2025-11-16T18:39:29.723Z",
-    "dropTriggerPrice": 0.1200878774222623,
-    "ema25": 0.12534499794629037,
-    "ema7": 0.12543627244259242,
-    "ema99": 0.12488489876069836,
-    "referencePrice24hAgo": 0.14127985579089683,
+    "dropTriggerPrice": 0.12035907859078593,
+    "ema25": 0.12536006713400366,
+    "ema7": 0.125411476827539,
+    "ema99": 0.1249248870176916,
+    "referencePrice24hAgo": 0.1415989159891599,
     "timeframes": {
       "5m": {
-        "changePct": 0.07980845969674122,
+        "changePct": 0.15974440894569147,
         "trend": "flat",
         "volatility": "low"
       },
       "15m": {
-        "changePct": 0.8038585209003335,
+        "changePct": 0.8849557522124036,
         "trend": "flat",
         "volatility": "low"
       },
@@ -64,9 +64,9 @@
         "volatility": "low"
       },
       "1d": {
-        "changePct": -11.24,
+        "changePct": -11.44,
         "trend": "down",
-        "vol24h": 2940164.11,
+        "vol24h": 2937021.27,
         "positionInRange": 0,
         "volatility": "mid"
       }
