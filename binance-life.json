@@ -15,33 +15,33 @@
       "symbol": "币安人生",
       "name": "币安人生"
     },
-    "crashPatternScore": 0.2,
+    "crashPatternScore": 0.4,
     "createdAt": "2025-11-16T03:32:07.739Z",
     "fdv": 127423091,
-    "lastSnapshotTs": "2025-11-20T01:18:20.918Z",
+    "lastSnapshotTs": "2025-11-20T01:18:53.879Z",
     "liquidity": 4203265.39,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.1274,
-    "priceChange1hPct": 0.92,
-    "priceChange24hPct": -9.87,
+    "priceChange1hPct": 0.85,
+    "priceChange24hPct": -10.22,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-20T01:18:20.918Z",
-    "vol24h": 2674555.65,
-    "volatilityRegime": "low",
+    "updatedAt": "2025-11-20T01:18:53.881Z",
+    "vol24h": 2665119.15,
+    "volatilityRegime": "mid",
     "lastDropAlertTs": "2025-11-19T20:20:30.393Z",
     "lastBuyAlertTs": "2025-11-16T18:39:29.723Z",
-    "dropTriggerPrice": 0.12014867413735715,
-    "ema25": 0.12715600268753696,
-    "ema7": 0.12738830978350757,
-    "ema99": 0.1267429781266172,
-    "referencePrice24hAgo": 0.14135138133806724,
+    "dropTriggerPrice": 0.12061706393406105,
+    "ema25": 0.1272490571988538,
+    "ema7": 0.12739791939262135,
+    "ema99": 0.12681798217940285,
+    "referencePrice24hAgo": 0.1419024281577189,
     "timeframes": {
       "5m": {
         "changePct": 0,
@@ -64,11 +64,11 @@
         "volatility": "low"
       },
       "1d": {
-        "changePct": -9.87,
+        "changePct": -10.22,
         "trend": "down",
-        "vol24h": 2674555.65,
+        "vol24h": 2665119.15,
         "positionInRange": 0,
-        "volatility": "low"
+        "volatility": "mid"
       }
     }
   }
