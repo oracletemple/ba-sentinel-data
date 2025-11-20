@@ -17,31 +17,31 @@
     },
     "crashPatternScore": 0.4,
     "createdAt": "2025-11-16T03:32:07.739Z",
-    "fdv": 119322487,
-    "lastSnapshotTs": "2025-11-20T13:46:15.259Z",
-    "liquidity": 4055777.54,
+    "fdv": 119319702,
+    "lastSnapshotTs": "2025-11-20T13:47:12.829Z",
+    "liquidity": 4056272.69,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.1193,
-    "priceChange1hPct": 0.04,
-    "priceChange24hPct": -15.83,
+    "priceChange1hPct": -0.1,
+    "priceChange24hPct": -15.46,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-20T13:46:15.259Z",
-    "vol24h": 3705971.85,
+    "updatedAt": "2025-11-20T13:47:12.829Z",
+    "vol24h": 3702700.85,
     "volatilityRegime": "mid",
     "lastDropAlertTs": "2025-11-20T13:26:30.139Z",
     "lastBuyAlertTs": "2025-11-16T18:39:29.723Z",
-    "dropTriggerPrice": 0.12047641677557325,
-    "ema25": 0.12001020299731456,
-    "ema7": 0.11953016745109661,
-    "ema99": 0.12063288984513701,
-    "referencePrice24hAgo": 0.14173696091243912,
+    "dropTriggerPrice": 0.11994913650343035,
+    "ema25": 0.11981562513050369,
+    "ema7": 0.11937282642007355,
+    "ema99": 0.1205294151539417,
+    "referencePrice24hAgo": 0.1411166311805063,
     "timeframes": {
       "5m": {
         "changePct": -0.6661115736885888,
@@ -54,7 +54,7 @@
         "volatility": "low"
       },
       "1h": {
-        "changePct": 0.08389261744966683,
+        "changePct": -0.08375209380234745,
         "trend": "flat",
         "volatility": "low"
       },
@@ -64,9 +64,9 @@
         "volatility": "mid"
       },
       "1d": {
-        "changePct": -15.83,
+        "changePct": -15.46,
         "trend": "down",
-        "vol24h": 3705971.85,
+        "vol24h": 3702700.85,
         "positionInRange": 0,
         "volatility": "mid"
       }
