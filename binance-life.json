@@ -18,30 +18,30 @@
     "crashPatternScore": 0.4,
     "createdAt": "2025-11-16T03:32:07.739Z",
     "fdv": 106471848,
-    "lastSnapshotTs": "2025-11-21T01:40:28.775Z",
+    "lastSnapshotTs": "2025-11-21T01:41:23.773Z",
     "liquidity": 3783435.58,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.1065,
-    "priceChange1hPct": -2.09,
-    "priceChange24hPct": -16.81,
+    "priceChange1hPct": -1.96,
+    "priceChange24hPct": -16.74,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-21T01:40:28.776Z",
-    "vol24h": 4147928.56,
+    "updatedAt": "2025-11-21T01:41:23.773Z",
+    "vol24h": 4147290.97,
     "volatilityRegime": "mid",
-    "lastDropAlertTs": "2025-11-21T01:11:01.825Z",
+    "lastDropAlertTs": "2025-11-21T01:41:09.463Z",
     "lastBuyAlertTs": "2025-11-21T01:14:25.355Z",
-    "dropTriggerPrice": 0.10881716552470248,
-    "ema25": 0.10651396120227334,
-    "ema7": 0.10649988571908492,
-    "ema99": 0.10656091730851305,
-    "referencePrice24hAgo": 0.1280201947349441,
+    "dropTriggerPrice": 0.10872567859716549,
+    "ema25": 0.1065101361818683,
+    "ema7": 0.1064999638408042,
+    "ema99": 0.10655618818576534,
+    "referencePrice24hAgo": 0.12791256305548881,
     "timeframes": {
       "5m": {
         "changePct": 0,
@@ -54,8 +54,8 @@
         "volatility": "low"
       },
       "1h": {
-        "changePct": -2.023919043238277,
-        "trend": "down",
+        "changePct": -1.8433179723502322,
+        "trend": "flat",
         "volatility": "low"
       },
       "4h": {
@@ -64,9 +64,9 @@
         "volatility": "mid"
       },
       "1d": {
-        "changePct": -16.81,
+        "changePct": -16.74,
         "trend": "down",
-        "vol24h": 4147928.56,
+        "vol24h": 4147290.97,
         "positionInRange": 0,
         "volatility": "mid"
       }
