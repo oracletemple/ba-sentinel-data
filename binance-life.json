@@ -17,44 +17,44 @@
     },
     "crashPatternScore": 0.4,
     "createdAt": "2025-11-16T03:32:07.739Z",
-    "fdv": 94323428,
-    "lastSnapshotTs": "2025-11-21T18:08:26.440Z",
-    "liquidity": 3480460.89,
+    "fdv": 94324103,
+    "lastSnapshotTs": "2025-11-21T18:09:24.956Z",
+    "liquidity": 3480473.36,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.09435,
-    "priceChange1hPct": -4.1,
+    "priceChange1hPct": -4.09,
     "priceChange24hPct": -13.62,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "down",
-    "updatedAt": "2025-11-21T18:08:26.440Z",
-    "vol24h": 9553981.87,
+    "updatedAt": "2025-11-21T18:09:24.957Z",
+    "vol24h": 9553988.1,
     "volatilityRegime": "mid",
     "lastDropAlertTs": "2025-11-21T14:44:43.775Z",
     "lastBuyAlertTs": "2025-11-21T14:48:18.514Z",
     "dropTriggerPrice": 0.09933213220675945,
-    "ema25": 0.0949222999841755,
-    "ema7": 0.0944902505546369,
-    "ema99": 0.09581918984755629,
+    "ema25": 0.0947655040955101,
+    "ema7": 0.09439437615205308,
+    "ema99": 0.09570513393638118,
     "referencePrice24hAgo": 0.1092266728409354,
     "timeframes": {
       "5m": {
-        "changePct": -1.121358205826872,
+        "changePct": -0.8407777193904311,
         "trend": "flat",
         "volatility": "low"
       },
       "15m": {
-        "changePct": -2.5108493490390593,
+        "changePct": -2.1570050814062,
         "trend": "down",
         "volatility": "low"
       },
       "1h": {
-        "changePct": -3.8226299694189634,
+        "changePct": -4.09636104899369,
         "trend": "down",
         "volatility": "low"
       },
@@ -66,7 +66,7 @@
       "1d": {
         "changePct": -13.62,
         "trend": "down",
-        "vol24h": 9553981.87,
+        "vol24h": 9553988.1,
         "positionInRange": 0,
         "volatility": "mid"
       }
