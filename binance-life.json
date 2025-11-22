@@ -15,36 +15,36 @@
       "symbol": "币安人生",
       "name": "币安人生"
     },
-    "crashPatternScore": 0.2,
+    "crashPatternScore": 0.1,
     "createdAt": "2025-11-16T03:32:07.739Z",
-    "fdv": 91166871,
-    "lastSnapshotTs": "2025-11-22T19:33:19.612Z",
-    "liquidity": 3447320.8,
+    "fdv": 91167046,
+    "lastSnapshotTs": "2025-11-22T19:34:24.641Z",
+    "liquidity": 3447324.09,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.09119,
     "priceChange1hPct": -1.23,
-    "priceChange24hPct": -5.38,
+    "priceChange24hPct": -4.87,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-22T19:33:19.612Z",
-    "vol24h": 2278530.08,
+    "updatedAt": "2025-11-22T19:34:24.642Z",
+    "vol24h": 2273367.5,
     "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-21T14:44:43.775Z",
     "lastBuyAlertTs": "2025-11-21T14:48:18.514Z",
     "dropTriggerPrice": 0.09933213220675945,
-    "ema25": 0.09145527941419716,
-    "ema7": 0.09122026400624259,
-    "ema99": 0.09184255574293546,
-    "referencePrice24hAgo": 0.09637497357852462,
+    "ema25": 0.0913825994864603,
+    "ema7": 0.09119957572072519,
+    "ema99": 0.0917918966399088,
+    "referencePrice24hAgo": 0.09585829916955743,
     "timeframes": {
       "5m": {
-        "changePct": -0.4149830730588679,
+        "changePct": -0.38234651518462215,
         "trend": "flat",
         "volatility": "low"
       },
@@ -59,14 +59,14 @@
         "volatility": "low"
       },
       "4h": {
-        "changePct": 0.12077294685990227,
+        "changePct": 0.08780594885303122,
         "trend": "flat",
         "volatility": "low"
       },
       "1d": {
-        "changePct": -5.38,
-        "trend": "down",
-        "vol24h": 2278530.08,
+        "changePct": -4.87,
+        "trend": "flat",
+        "vol24h": 2273367.5,
         "positionInRange": 0,
         "volatility": "low"
       }
