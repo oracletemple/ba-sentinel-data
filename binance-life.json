@@ -18,30 +18,30 @@
     "crashPatternScore": 0.1,
     "createdAt": "2025-11-16T03:32:07.739Z",
     "fdv": 90328993,
-    "lastSnapshotTs": "2025-11-22T20:47:27.938Z",
+    "lastSnapshotTs": "2025-11-22T20:48:31.127Z",
     "liquidity": 3422969.04,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.09035,
-    "priceChange1hPct": -0.34,
-    "priceChange24hPct": -3.46,
+    "priceChange1hPct": -0.38,
+    "priceChange24hPct": -3.52,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-22T20:47:27.938Z",
-    "vol24h": 2283691.4,
+    "updatedAt": "2025-11-22T20:48:31.127Z",
+    "vol24h": 2283691.38,
     "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-21T14:44:43.775Z",
     "lastBuyAlertTs": "2025-11-21T14:48:18.514Z",
     "dropTriggerPrice": 0.09933213220675945,
-    "ema25": 0.09061463620029048,
-    "ema7": 0.09041102901271021,
-    "ema99": 0.09105768406411016,
-    "referencePrice24hAgo": 0.0935881499896416,
+    "ema25": 0.09054213249708427,
+    "ema7": 0.09036930996105283,
+    "ema99": 0.09100274524807461,
+    "referencePrice24hAgo": 0.09364635157545606,
     "timeframes": {
       "5m": {
         "changePct": -0.48463487168189884,
@@ -54,19 +54,19 @@
         "volatility": "low"
       },
       "1h": {
-        "changePct": -0.34193690712552915,
+        "changePct": -0.3858875413450971,
         "trend": "flat",
         "volatility": "low"
       },
       "4h": {
-        "changePct": -1.2784090909090957,
+        "changePct": -1.1704222270837907,
         "trend": "flat",
         "volatility": "low"
       },
       "1d": {
-        "changePct": -3.46,
+        "changePct": -3.52,
         "trend": "flat",
-        "vol24h": 2283691.4,
+        "vol24h": 2283691.38,
         "positionInRange": 0,
         "volatility": "low"
       }
