@@ -15,36 +15,36 @@
       "symbol": "币安人生",
       "name": "币安人生"
     },
-    "crashPatternScore": 0.1,
+    "crashPatternScore": 0.2,
     "createdAt": "2025-11-16T03:32:07.739Z",
     "fdv": 87545798,
-    "lastSnapshotTs": "2025-11-22T06:26:25.259Z",
+    "lastSnapshotTs": "2025-11-22T06:27:31.619Z",
     "liquidity": 3366459.17,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.08757,
-    "priceChange1hPct": 0.69,
-    "priceChange24hPct": -4.7,
+    "priceChange1hPct": 0.71,
+    "priceChange24hPct": -5.04,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-22T06:26:25.259Z",
-    "vol24h": 6323789.23,
+    "updatedAt": "2025-11-22T06:27:31.620Z",
+    "vol24h": 6322105.76,
     "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-21T14:44:43.775Z",
     "lastBuyAlertTs": "2025-11-21T14:48:18.514Z",
     "dropTriggerPrice": 0.09933213220675945,
-    "ema25": 0.08755022702882144,
-    "ema7": 0.08759560426608308,
-    "ema99": 0.08733479656728671,
-    "referencePrice24hAgo": 0.0918887722980063,
+    "ema25": 0.08755564432861741,
+    "ema7": 0.08757810134981533,
+    "ema99": 0.08735305584254256,
+    "referencePrice24hAgo": 0.09221777590564448,
     "timeframes": {
       "5m": {
-        "changePct": 0.26333867643690645,
+        "changePct": 0.10288065843620582,
         "trend": "flat",
         "volatility": "low"
       },
@@ -54,19 +54,19 @@
         "volatility": "low"
       },
       "1h": {
-        "changePct": 0.6898930665746688,
+        "changePct": 0.7130534790109208,
         "trend": "flat",
         "volatility": "low"
       },
       "4h": {
-        "changePct": -4.939209726443767,
+        "changePct": -5.0834597875569045,
         "trend": "down",
         "volatility": "mid"
       },
       "1d": {
-        "changePct": -4.7,
-        "trend": "flat",
-        "vol24h": 6323789.23,
+        "changePct": -5.04,
+        "trend": "down",
+        "vol24h": 6322105.76,
         "positionInRange": 0,
         "volatility": "low"
       }
