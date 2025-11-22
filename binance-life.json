@@ -18,7 +18,7 @@
     "crashPatternScore": 0.2,
     "createdAt": "2025-11-16T03:32:07.739Z",
     "fdv": 89835101,
-    "lastSnapshotTs": "2025-11-22T20:59:23.446Z",
+    "lastSnapshotTs": "2025-11-22T21:00:26.216Z",
     "liquidity": 3409338.37,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
@@ -26,30 +26,30 @@
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.08986,
     "priceChange1hPct": -1.25,
-    "priceChange24hPct": -5.07,
+    "priceChange24hPct": -5.13,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-22T20:59:23.446Z",
-    "vol24h": 2264468.99,
+    "updatedAt": "2025-11-22T21:00:26.216Z",
+    "vol24h": 2264252.65,
     "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-21T14:44:43.775Z",
     "lastBuyAlertTs": "2025-11-21T14:48:18.514Z",
     "dropTriggerPrice": 0.09933213220675945,
-    "ema25": 0.08998795726643169,
-    "ema7": 0.08986325592323484,
-    "ema99": 0.09048902632130523,
-    "referencePrice24hAgo": 0.09465922258506267,
+    "ema25": 0.08995290017424906,
+    "ema7": 0.08986103019446103,
+    "ema99": 0.09044019385057386,
+    "referencePrice24hAgo": 0.09471908928006746,
     "timeframes": {
       "5m": {
-        "changePct": -0.39902460651740107,
+        "changePct": 0,
         "trend": "flat",
         "volatility": "low"
       },
       "15m": {
-        "changePct": -0.8386669609357874,
+        "changePct": -0.663276586336506,
         "trend": "flat",
         "volatility": "low"
       },
@@ -59,14 +59,14 @@
         "volatility": "low"
       },
       "4h": {
-        "changePct": -1.8245384027094993,
+        "changePct": -1.813811188811198,
         "trend": "flat",
         "volatility": "low"
       },
       "1d": {
-        "changePct": -5.07,
+        "changePct": -5.13,
         "trend": "down",
-        "vol24h": 2264468.99,
+        "vol24h": 2264252.65,
         "positionInRange": 0,
         "volatility": "low"
       }
