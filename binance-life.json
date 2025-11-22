@@ -18,7 +18,7 @@
     "crashPatternScore": 0.1,
     "createdAt": "2025-11-16T03:32:07.739Z",
     "fdv": 92823120,
-    "lastSnapshotTs": "2025-11-22T10:10:27.381Z",
+    "lastSnapshotTs": "2025-11-22T10:11:20.231Z",
     "liquidity": 3449589.02,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
@@ -26,22 +26,22 @@
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.09285,
     "priceChange1hPct": 4.33,
-    "priceChange24hPct": 11.04,
+    "priceChange24hPct": 8.89,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "up",
-    "updatedAt": "2025-11-22T10:10:27.381Z",
-    "vol24h": 4259995.45,
-    "volatilityRegime": "mid",
+    "updatedAt": "2025-11-22T10:11:20.231Z",
+    "vol24h": 4246765.59,
+    "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-21T14:44:43.775Z",
     "lastBuyAlertTs": "2025-11-21T14:48:18.514Z",
     "dropTriggerPrice": 0.09933213220675945,
-    "ema25": 0.09251274888714119,
-    "ema7": 0.0927029323401425,
-    "ema99": 0.09199066675943213,
-    "referencePrice24hAgo": 0.08361851585014408,
+    "ema25": 0.09258474286617208,
+    "ema7": 0.09278795583099761,
+    "ema99": 0.09204120242864343,
+    "referencePrice24hAgo": 0.08526953806593811,
     "timeframes": {
       "5m": {
         "changePct": 0.6613183000867296,
@@ -54,21 +54,21 @@
         "volatility": "low"
       },
       "1h": {
-        "changePct": 4.396222172250952,
+        "changePct": 4.337566018653784,
         "trend": "up",
         "volatility": "mid"
       },
       "4h": {
-        "changePct": 6.029462144570067,
+        "changePct": 6.174957118353347,
         "trend": "up",
         "volatility": "mid"
       },
       "1d": {
-        "changePct": 11.04,
+        "changePct": 8.89,
         "trend": "up",
-        "vol24h": 4259995.45,
+        "vol24h": 4246765.59,
         "positionInRange": 0,
-        "volatility": "mid"
+        "volatility": "low"
       }
     },
     "lastSellAlertTs": "2025-11-20T03:52:51.767Z"
