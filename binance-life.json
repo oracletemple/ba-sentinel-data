@@ -17,56 +17,56 @@
     },
     "crashPatternScore": 0.1,
     "createdAt": "2025-11-16T03:32:07.739Z",
-    "fdv": 91478101,
-    "lastSnapshotTs": "2025-11-22T16:26:21.049Z",
-    "liquidity": 3443154.15,
+    "fdv": 91465937,
+    "lastSnapshotTs": "2025-11-22T16:27:23.286Z",
+    "liquidity": 3442987.96,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
-    "price": 0.0915,
-    "priceChange1hPct": 0.48,
-    "priceChange24hPct": -2.97,
+    "price": 0.09149,
+    "priceChange1hPct": 0.47,
+    "priceChange24hPct": -2.86,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-22T16:26:21.050Z",
-    "vol24h": 2637848.92,
+    "updatedAt": "2025-11-22T16:27:23.287Z",
+    "vol24h": 2635976.93,
     "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-21T14:44:43.775Z",
     "lastBuyAlertTs": "2025-11-21T14:48:18.514Z",
     "dropTriggerPrice": 0.09933213220675945,
-    "ema25": 0.09122559065165992,
-    "ema7": 0.09135997752970276,
-    "ema99": 0.09105633804571941,
-    "referencePrice24hAgo": 0.09430073173245387,
+    "ema25": 0.09130000272234237,
+    "ema7": 0.09145319601525752,
+    "ema99": 0.09109058033956821,
+    "referencePrice24hAgo": 0.09418365246036647,
     "timeframes": {
       "5m": {
-        "changePct": 0.6711409395973148,
+        "changePct": 0.6379936200637962,
         "trend": "flat",
         "volatility": "low"
       },
       "15m": {
-        "changePct": 0.3619611714379697,
+        "changePct": 0.18615856329391534,
         "trend": "flat",
         "volatility": "low"
       },
       "1h": {
-        "changePct": 0.4721642692434389,
+        "changePct": 0.46118370484243293,
         "trend": "flat",
         "volatility": "low"
       },
       "4h": {
-        "changePct": 0.8820286659316374,
+        "changePct": 0.9934871398609095,
         "trend": "flat",
         "volatility": "low"
       },
       "1d": {
-        "changePct": -2.97,
+        "changePct": -2.86,
         "trend": "flat",
-        "vol24h": 2637848.92,
+        "vol24h": 2635976.93,
         "positionInRange": 0,
         "volatility": "low"
       }
