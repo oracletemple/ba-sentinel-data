@@ -18,7 +18,7 @@
     "crashPatternScore": 0.1,
     "createdAt": "2025-11-16T03:32:07.739Z",
     "fdv": 93086139,
-    "lastSnapshotTs": "2025-11-22T10:13:03.854Z",
+    "lastSnapshotTs": "2025-11-22T10:14:20.294Z",
     "liquidity": 3457554.48,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
@@ -26,35 +26,35 @@
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.09311,
     "priceChange1hPct": 4.24,
-    "priceChange24hPct": 6.55,
+    "priceChange24hPct": 7.14,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "up",
-    "updatedAt": "2025-11-22T10:13:03.854Z",
-    "vol24h": 4207060.97,
+    "updatedAt": "2025-11-22T10:14:20.294Z",
+    "vol24h": 4194431.63,
     "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-21T14:44:43.775Z",
     "lastBuyAlertTs": "2025-11-21T14:48:18.514Z",
     "dropTriggerPrice": 0.09933213220675945,
-    "ema25": 0.09278272842213232,
-    "ema7": 0.09304883784199153,
-    "ema99": 0.09216246823853648,
-    "referencePrice24hAgo": 0.08738620366025339,
+    "ema25": 0.0928723926529651,
+    "ema7": 0.09309064791094263,
+    "ema99": 0.09223602687263731,
+    "referencePrice24hAgo": 0.08690498413291022,
     "timeframes": {
       "5m": {
-        "changePct": 0.822956145100159,
+        "changePct": 0.4206212251941345,
         "trend": "flat",
         "volatility": "low"
       },
       "15m": {
-        "changePct": 0.5290434031526715,
+        "changePct": 0.7247944612721808,
         "trend": "flat",
         "volatility": "low"
       },
       "1h": {
-        "changePct": 4.371707207712141,
+        "changePct": 4.243170622480969,
         "trend": "up",
         "volatility": "mid"
       },
@@ -64,9 +64,9 @@
         "volatility": "mid"
       },
       "1d": {
-        "changePct": 6.55,
+        "changePct": 7.14,
         "trend": "up",
-        "vol24h": 4207060.97,
+        "vol24h": 4194431.63,
         "positionInRange": 0,
         "volatility": "low"
       }
