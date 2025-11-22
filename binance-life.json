@@ -17,39 +17,39 @@
     },
     "crashPatternScore": 0.1,
     "createdAt": "2025-11-16T03:32:07.739Z",
-    "fdv": 91390851,
-    "lastSnapshotTs": "2025-11-22T16:48:21.628Z",
-    "liquidity": 3444161.2,
+    "fdv": 91390852,
+    "lastSnapshotTs": "2025-11-22T16:49:20.427Z",
+    "liquidity": 3444161.21,
     "localHigh24h": 0.1476,
     "localLow24h": 0.1364,
     "pairAddress": "0x66f289De31EEF70d52186729d2637Ac978CFC56B",
     "pairUrl": "https://dexscreener.com/bsc/0x66f289de31eef70d52186729d2637ac978cfc56b",
     "price": 0.09142,
     "priceChange1hPct": 0.41,
-    "priceChange24hPct": -2.12,
+    "priceChange24hPct": -2.41,
     "quoteToken": {
       "symbol": "WBNB",
       "name": "Wrapped BNB"
     },
     "trendShort": "flat",
-    "updatedAt": "2025-11-22T16:48:21.628Z",
-    "vol24h": 2513924.14,
+    "updatedAt": "2025-11-22T16:49:20.427Z",
+    "vol24h": 2512879.92,
     "volatilityRegime": "low",
     "lastDropAlertTs": "2025-11-21T14:44:43.775Z",
     "lastBuyAlertTs": "2025-11-21T14:48:18.514Z",
     "dropTriggerPrice": 0.09933213220675945,
-    "ema25": 0.09134356830008462,
-    "ema7": 0.09147117404899817,
-    "ema99": 0.09123409079544138,
-    "referencePrice24hAgo": 0.09340008173273397,
+    "ema25": 0.09136450867513587,
+    "ema7": 0.09143619178894083,
+    "ema99": 0.09124852326906416,
+    "referencePrice24hAgo": 0.09367763090480583,
     "timeframes": {
       "5m": {
-        "changePct": 0.4063701263042233,
+        "changePct": 0.318226709096893,
         "trend": "flat",
         "volatility": "low"
       },
       "15m": {
-        "changePct": -0.09834990711396882,
+        "changePct": 0.01093972213105363,
         "trend": "flat",
         "volatility": "low"
       },
@@ -59,14 +59,14 @@
         "volatility": "low"
       },
       "4h": {
-        "changePct": 1.5664926119320015,
+        "changePct": 1.4875666074600442,
         "trend": "flat",
         "volatility": "low"
       },
       "1d": {
-        "changePct": -2.12,
+        "changePct": -2.41,
         "trend": "flat",
-        "vol24h": 2513924.14,
+        "vol24h": 2512879.92,
         "positionInRange": 0,
         "volatility": "low"
       }
